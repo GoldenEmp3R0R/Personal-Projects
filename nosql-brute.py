@@ -5,7 +5,7 @@ import re
 import string
 
 # Update vulnerable URL as needed
-url = 'http://10.10.10.146'
+url = 'http://www.example-url.com'
 
 # password of user
 password = ''
